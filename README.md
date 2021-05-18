@@ -1,7 +1,11 @@
-This is what you've been waiting for 
-Finally, the labs are here.
-If you are copying this work, please star this repository. 
-Feel free to like the older ones as well. 🌟
+### This is what you've been waiting for 
+### Finally, the labs are here.
+### If you are copying this work, please star 🌟 this repository. 
+### Feel free to like the older ones as well.
+
+## Homework on Numeric Methods part 3
+### Applied mathematics and Computer Science
+### 5 term
 
 ## List of content
 * lab_1.ipynb 
