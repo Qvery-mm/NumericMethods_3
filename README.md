@@ -1,5 +1,5 @@
-### This is what you've been waiting for 
-### Finally, the labs are here.
+### This is what you've been waiting for. 
+### Finally, the labs are here!
 ### If you are copying this work, please star 🌟 this repository. 
 ### Feel free to like the older ones as well.
 
