@@ -8,7 +8,8 @@
 ### 5 term
 
 ## List of content
-* 6_term_lab_1.ipynb - passed
+* 6_term_lab_1.ipynb - accepted
+* 6_term_lab_2.ipynb - review
 
 ## Requirements
 python >= 3.6.0
