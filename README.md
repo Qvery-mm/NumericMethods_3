@@ -1,5 +1,5 @@
 ### This is what you've been waiting for. 
-### Finally, the labs are here!
+### Finally, labs are here!
 ### If you are copying this work, please star 🌟 this repository. 
 ### Feel free to like the older ones as well.
 
@@ -9,7 +9,8 @@
 
 ## List of content
 * 6_term_lab_1.ipynb - accepted
-* 6_term_lab_2.ipynb - review
+* 6_term_lab_2.ipynb - accepted
+* 6_term_lab_3.ipynb - accepted
 
 ## Requirements
 python >= 3.6.0
