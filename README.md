@@ -11,8 +11,8 @@
 * 6_term_lab_1.ipynb - accepted
 * 6_term_lab_2.ipynb - accepted
 * 6_term_lab_3.ipynb - accepted
-* 6_term_lab_4.ipynb - review
-* 6_term_lab_5.ipynb - review
+* 6_term_lab_4.ipynb - accepted
+* 6_term_lab_5.ipynb - accepted
 
 ## Requirements
 python >= 3.6.0
